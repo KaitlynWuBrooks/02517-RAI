@@ -1,0 +1,14 @@
+jupyter
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+datasets>=3.2,<5
+transformers>=4.51,<5
+accelerate>=1.3
+sentencepiece
+rapidfuzz
+torch
+huggingface_hub
+tqdm
